@@ -2,10 +2,9 @@
 
 ## Robot Mechanism
 ---
-![image](https://user-images.githubusercontent.com/65818525/130610200-97b35c34-cd3f-4009-bff0-6a9497d295af.png)
----
 ![image](https://user-images.githubusercontent.com/65818525/130622772-ee236b66-7bfd-4d08-af7c-d87ef50c0322.png)
-
+---
+![image](https://user-images.githubusercontent.com/65818525/130610200-97b35c34-cd3f-4009-bff0-6a9497d295af.png)
 ---
 
 
