@@ -1,4 +1,4 @@
-# Conduit-Service-Robot-Concept Design-II
+# Conduit-Service-Robot-Concept Design
 
 ## Robot Version 1
 ---
