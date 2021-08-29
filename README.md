@@ -15,7 +15,13 @@
 - Kinect Sensor
 - DC Motor
 - Ultrasonic Sensor 
-
+- Electro Magnet
+- Dynamixel Servo
+- L298N Motor Drive Board
+- Breakout Board MPU6050
+- Jetson Nano 
+- Tiva C Launch Pad
+- Inertial Measurement Units(IMUs)
 
 ## Robot Version 1
 ---
