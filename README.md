@@ -81,6 +81,3 @@
 ![ShorterTime](https://user-images.githubusercontent.com/65818525/130485757-268c3ffc-956d-4448-a036-890802cbb4f3.gif)
 
 
-## 1:1 Demonstrator
-![image](https://user-images.githubusercontent.com/65818525/130616262-b75dbf85-4d87-4152-b125-9f34502e2cb7.png)
-
