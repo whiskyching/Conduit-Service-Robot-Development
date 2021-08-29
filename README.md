@@ -1,6 +1,21 @@
-# Conduit-Service-Robot-Concept Design
+# Conduit-Service-Robot-Concept Design (Ongoing Project)
 
-## 
+## Scrabot (Service Controlling Regulation Automation Bot)
+## 3D Design Tool: 
+- Rhino 3D 
+- Grasshopper 3D
+- Solidworks
+ 
+## Robot Framework: 
+- ROS
+- Gazebo
+- Python
+
+## Hardware: 
+- Kinect Sensor
+- DC Motor
+- Ultrasonic Sensor 
+
 
 ## Robot Version 1
 ---
