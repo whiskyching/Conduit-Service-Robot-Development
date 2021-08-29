@@ -6,7 +6,8 @@
 ---
 ![image](https://user-images.githubusercontent.com/65818525/131256487-06ec2302-2c6b-4a6b-a314-6fd943d4de85.png)
 ---
-![image](https://user-images.githubusercontent.com/65818525/131256572-025992a5-1f81-410f-a7e3-bbb4c86eb997.png)
+## Robot Version 2
+![image](https://user-images.githubusercontent.com/65818525/131256678-0c595ee3-34c9-4952-8cfc-68af75e07bee.png)
 ---
 ![image](https://user-images.githubusercontent.com/65818525/131256589-79013d58-1516-4ad2-9a1d-25183c23b43d.png)
 ---
