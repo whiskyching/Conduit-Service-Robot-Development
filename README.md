@@ -1,5 +1,5 @@
 ## Scrabot (Service Controlling Regulation Automation Bot)
-- Scrabot is a service robot, which is designed to place and maintain the conduits inside the duct within the timber slab. The robot is embedded with depth camera to generate 3D point clouds. The 2D duct network
+- Scrabot is a service robot, which is designed to place and maintain the conduits inside the duct within the timber slab. The robot is embedded with depth camera to generate 3D point clouds. The 2D duct network will be defined in advance. The observed 3D Point clouds from the robot should be matched with the 2D maps. Then the localization algorithm based on an observation model which down.projects the plane filtered points on to 2D, and assigns correspondences for each point to lines in the 2D map. 
 
 ![image](https://user-images.githubusercontent.com/65818525/131259207-d436c5e9-177e-43ac-a658-a7d940d0c49b.png)
 ---
